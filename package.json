@@ -1,16 +1,16 @@
 {
   "name": "travel-fixed",
-  "homepage": "https://olga1975-dot.github.com/TravelEnglish/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://olga1975-dot.github.io/TravelEnglish/",
   "scripts": {
-  "dev": "vite",
-  "build": "vite build",
-  "predeploy": "npm run build",
-  "deploy": "gh-pages -d dist",
-  "preview": "vite preview"
-}
+    "dev": "vite",
+    "build": "vite build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist",
+    "preview": "vite preview"
+  },
   "dependencies": {
     "react": "^19.2.0",
     "react-dom": "^19.2.0"
